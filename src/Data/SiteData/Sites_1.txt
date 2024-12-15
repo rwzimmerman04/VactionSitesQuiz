@@ -1,0 +1,5 @@
+Great Pyramid of Giza,Egypt,109.3,Cairo,386900.00
+Taj Mahal,India,1408,New Delhi,1269219.00
+Zhangjiajie National Park,China,1412,Beijing,3705000.00
+Glowworm Caves,New Zealand,5.12,Wellington,103483.00
+Angel Falls,Venezuela,28.2,Caracas,353841.00

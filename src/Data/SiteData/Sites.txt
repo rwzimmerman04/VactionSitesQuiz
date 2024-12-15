@@ -1,0 +1,15 @@
+Stonehenge,England,55.9,London,50301.00
+Grand Canyon,USA,331.9,Washington D.C.,3797000.00
+Great Barrier Reef,Australia,24.8,Canberra,7692024.01
+Eiffel Tower,France,67.7,Paris,213011.00
+Meiji Shrine,Japan,125.7,Tokyo,145936.00
+Great Pyramid of Giza,Egypt,109.3,Cairo,386900.00
+Taj Mahal,India,1408,New Delhi,1269219.00
+Zhangjiajie National Park,China,1412,Beijing,3705000.00
+Glowworm Caves,New Zealand,5.1,Wellington,103483.00
+Angel Falls,Venezuela,28.2,Caracas,353841.00
+Tivoli Gardens,Denmark,5.8,Copenhagen,16584.00
+Neuschwanstein Castle,Germany,83.2,Berlin,138067.00
+Rock of Cashel,Ireland,5.0,Dublin,32595
+Red Square,Russia,143.4,Moscow,6602000.00
+Edinburgh Castle,Scotland,5.4,Edinburgh,30081.00

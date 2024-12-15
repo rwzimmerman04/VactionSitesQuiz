@@ -1,0 +1,12 @@
+Lyla Franklin,10,14,15
+John Connor,40,0,0
+Homer Simpson,45,0,0
+Drake Zimmerman,17,0,0
+Colby Wickersham,19,3,4
+Joshua Schiesser,19,3,4
+Josiah Neiman,20,1,1
+Rattles Magoo,67,0,0
+Marge Simpson,43,1,1
+Robert Zimmerman,19,1,1
+Ryan Franklin,35,0,0
+Turanga Leela,32,0,0
